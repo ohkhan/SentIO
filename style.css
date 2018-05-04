@@ -1,0 +1,17 @@
+.problem-text {
+    size: 1.5em;
+}
+
+
+.img {
+    position: relative;
+    display: block;
+    margin: auto;
+    margin-bottom: 2em;
+    align-content: center;
+    width:  100px;
+    height: 100px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
