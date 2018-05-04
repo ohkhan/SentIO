@@ -1,11 +1,22 @@
 {
-  "name": "blogger",
+  "name": "sentio",
   "version": "1.0.0",
-  "description": "",
+  "description": "MediSend Informational",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohkhan/SentIO.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohkhan/SentIO/issues"
+  },
+  "homepage": "https://github.com/ohkhan/SentIO#readme",
+  "dependencies": {
+    "particles.js": "^2.0.0"
+  }
 }
